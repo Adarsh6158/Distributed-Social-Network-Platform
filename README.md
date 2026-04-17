@@ -31,11 +31,12 @@
 
 ### Service Interaction Flow
 
-<img width="750" height="470" alt="image" src="https://github.com/user-attachments/assets/492db09c-f91b-460a-b097-dbbb8ab01266" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/492db09c-f91b-460a-b097-dbbb8ab01266" />
+
 
 ### Database Design
 
-<img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/9a6345ca-f85e-4cff-a4b4-ab02e21dd960" />
+<img width="900" height="510" alt="image" src="https://github.com/user-attachments/assets/9a6345ca-f85e-4cff-a4b4-ab02e21dd960" />
 
 
 ## Tech Stack

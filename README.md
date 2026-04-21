@@ -31,7 +31,8 @@
 
 ### Service Interaction Flow
 
-<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/492db09c-f91b-460a-b097-dbbb8ab01266" />
+<img width="910" height="590" alt="image" src="https://github.com/user-attachments/assets/d2b4e220-2cf4-45a7-a4f8-df1fb0255ff2" />
+
 
 
 ### Database Design
